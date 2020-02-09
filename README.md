@@ -1,6 +1,6 @@
 # Webathon
-![](Webathon Screenshots\Screenshot (1).png)
-![](Webathon Screenshots\Screenshot (2).png)
-![](Webathon Screenshots\Screenshot (3).png)
-![](Webathon Screenshots\Screenshot (4).png)
+![](Screenshots\Screenshot (1).png)
+![](Screenshots\Screenshot (2).png)
+![](Screenshots\Screenshot (3).png)
+![](Screenshots\Screenshot (4).png)
 ![](codigo.png)
